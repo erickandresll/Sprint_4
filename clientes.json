@@ -1,0 +1,74 @@
+{
+  "clientes": [
+      {
+          "nombre_pasajero": "Juan Perez",
+          "rut": "11.111.111-1",
+          "edad": 35,
+          "fono_contacto": "+56 9 1234 5678",
+          "email": "juan.perez@example.com"
+      },
+      {
+          "nombre_pasajero": "Maria Garcia",
+          "rut": "22.222.222-2",
+          "edad": 42,
+          "fono_contacto": "+56 9 2345 6789",
+          "email": "maria.garcia@example.com"
+      },
+      {
+          "nombre_pasajero": "Pedro Rodriguez",
+          "rut": "33.333.333-3",
+          "edad": 28,
+          "fono_contacto": "+56 9 3456 7890",
+          "email": "pedro.rodriguez@example.com"
+      },
+      {
+          "nombre_pasajero": "Ana Sanchez",
+          "rut": "44.444.444-4",
+          "edad": 50,
+          "fono_contacto": "+56 9 4567 8901",
+          "email": "ana.sanchez@example.com"
+      },
+      {
+          "nombre_pasajero": "Luisa Hernandez",
+          "rut": "55.555.555-5",
+          "edad": 23,
+          "fono_contacto": "+56 9 5678 9012",
+          "email": "luisa.hernandez@example.com"
+      },
+      {
+          "nombre_pasajero": "Carlos Gonzalez",
+          "rut": "66.666.666-6",
+          "edad": 39,
+          "fono_contacto": "+56 9 6789 0123",
+          "email": "carlos.gonzalez@example.com"
+      },
+      {
+          "nombre_pasajero": "Lucia Castro",
+          "rut": "77.777.777-7",
+          "edad": 31,
+          "fono_contacto": "+56 9 7890 1234",
+          "email": "lucia.castro@example.com"
+      },
+      {
+          "nombre_pasajero": "Manuel Diaz",
+          "rut": "88.888.888-8",
+          "edad": 46,
+          "fono_contacto": "+56 9 8901 2345",
+          "email": "manuel.diaz@example.com"
+      },
+      {
+          "nombre_pasajero": "Laura Torres",
+          "rut": "99.999.999-9",
+          "edad": 27,
+          "fono_contacto": "+56 9 9012 3456",
+          "email": "laura.torres@example.com"
+      },
+      {
+          "nombre_pasajero": "Jorge Ramirez",
+          "rut": "10.101.010-1",
+          "edad": 33,
+          "fono_contacto": "+56 9 0123 4567",
+          "email": "jorge.ramirez@example.com"
+      }
+  ]
+}

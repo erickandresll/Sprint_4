@@ -1,0 +1,84 @@
+{
+  "eventos": [
+      {
+          "nombre_evento": "Concierto de rock",
+          "ubicacion": "Estadio Nacional",
+          "fecha_evento": "2023-06-01",
+          "tipo": "Concierto",
+          "capacidad": 5000,
+          "valor": 20000
+      },
+      {
+          "nombre_evento": "Festival de cine",
+          "ubicacion": "Cine Hoyts",
+          "fecha_evento": "2023-07-15",
+          "tipo": "Cine",
+          "capacidad": 200,
+          "valor": 8000
+      },
+      {
+          "nombre_evento": "Feria de tecnología",
+          "ubicacion": "Centro de Convenciones",
+          "fecha_evento": "2023-08-20",
+          "tipo": "Feria",
+          "capacidad": 1000,
+          "valor": 15000
+      },
+      {
+          "nombre_evento": "Conferencia de negocios",
+          "ubicacion": "Hotel Sheraton",
+          "fecha_evento": "2023-09-10",
+          "tipo": "Conferencia",
+          "capacidad": 300,
+          "valor": 10000
+      },
+      {
+          "nombre_evento": "Fiesta de fin de año",
+          "ubicacion": "Club de Golf",
+          "fecha_evento": "2023-12-31",
+          "tipo": "Fiesta",
+          "capacidad": 500,
+          "valor": 50000
+      },
+      {
+          "nombre_evento": "Partido de fútbol",
+          "ubicacion": "Estadio Monumental",
+          "fecha_evento": "2023-07-01",
+          "tipo": "Deporte",
+          "capacidad": 20000,
+          "valor": 10000
+      },
+      {
+          "nombre_evento": "Concierto de música clásica",
+          "ubicacion": "Teatro Municipal",
+          "fecha_evento": "2023-06-15",
+          "tipo": "Concierto",
+          "capacidad": 1000,
+          "valor": 30000
+      },
+      {
+          "nombre_evento": "Festival de gastronomía",
+          "ubicacion": "Parque Araucano",
+          "fecha_evento": "2023-11-01",
+          "tipo": "Festival",
+          "capacidad": 5000,
+          "valor": 25000
+      },
+      {
+          "nombre_evento": "Exposición de arte",
+          "ubicacion": "Museo de Bellas Artes",
+          "fecha_evento": "2023-10-15",
+          "tipo": "Exposición",
+          "capacidad": 500,
+          "valor": 5000
+      },
+      {
+          "nombre_evento": "Fiesta de la cerveza",
+          "ubicacion": "Espacio Broadway",
+          "fecha_evento": "2023-09-30",
+          "tipo": "Fiesta",
+          "capacidad": 2000,
+          "valor": 12000
+      }
+  ]
+}
